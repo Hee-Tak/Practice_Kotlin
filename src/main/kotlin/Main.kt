@@ -6,6 +6,7 @@ fun main(args: Array<String>) {
 
     practiceWhile()
 
+    PracticeString().testString() //오 기본생성자 이용하는거임? 그런거같은데
 
 }
 
