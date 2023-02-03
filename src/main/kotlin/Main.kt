@@ -9,6 +9,9 @@ fun main(args: Array<String>) {
     PracticeString().testString() //오 기본생성자 이용하는거임? 그런거같은데
 
     PracticeArray().arraytest()
+
+    val numbers = listOf(1,2,3,4,5,6)
+    println("List: $numbers")
 }
 
 fun practiceFor(){
